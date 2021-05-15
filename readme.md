@@ -1,0 +1,3 @@
+# Git is crazy
+
+Hello
